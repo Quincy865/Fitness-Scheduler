@@ -1,0 +1,246 @@
+{
+  "users": [
+    {
+      "id": "3",
+      "name": "Alice Johnson",
+      "email": "alice@example.com"
+    },
+    {
+      "id": "12",
+      "name": "Emmah",
+      "email": "emz@gmail.com"
+    },
+    {
+      "id": "25",
+      "name": "Mike",
+      "email": "mike@gmail.com"
+    },
+    {
+      "id": "5767",
+      "name": "Rose Wanja",
+      "email": "wanja@gmail.com"
+    }
+  ],
+  "classes": [
+    {
+      "id": "1",
+      "name": "Yoga Class",
+      "description": "A relaxing yoga session.",
+      "duration": 60,
+      "image": "https://yoganowchicago.com/wp-content/uploads/2021/06/beginners-yoga-class-BUQX8HA.jpg",
+      "schedule": "2025-02-01T10:00:00"
+    },
+    {
+      "id": "2",
+      "name": "HIIT Workout",
+      "description": "High-intensity interval training.",
+      "duration": 45,
+      "image": "https://www.muscletech.com/cdn/shop/articles/HIIT_Workouts_2.jpg?v=1702665389",
+      "schedule": "2025-02-01T12:00:00"
+    },
+    {
+      "id": "3",
+      "name": "Pilates",
+      "description": "Core strengthening and flexibility exercises.",
+      "duration": 20,
+      "image": "https://external-preview.redd.it/20-min-full-body-pilates-workout-for-beginners-realistic-at-v0-2nhtso7MJ9w_Pq_FPkZkmYZqwGgRIvOkS0fadLMJdGo.jpg?auto=webp&s=784acccd7e2c3f09fb670ceacf3313c057a10970",
+      "schedule": "2025-02-02T09:00:00"
+    },
+    {
+      "id": "4",
+      "name": "Spinning",
+      "description": "Indoor cycling for cardiovascular health.",
+      "duration": 40,
+      "image": "https://ride.shimano.com/cdn/shop/articles/7-Tips-to-help-you-get-started-with-indoor-cycling-thumbnail.jpg?v=1616085829",
+      "schedule": "2025-02-02T11:00:00"
+    },
+    {
+      "id": "5",
+      "name": "Zumba",
+      "description": "A dance-based workout to lively music.",
+      "duration": 60,
+      "image": "https://ghc.health/cdn/shop/articles/Shake_off_Pounds_Zumba_Dance_for_Weight_Loss.jpg?v=1685532264",
+      "schedule": "2025-02-02T13:00:00"
+    },
+    {
+      "id": "6",
+      "name": "Boxing",
+      "description": "Intense full-body workout with punches and footwork.",
+      "duration": 50,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL-ThNDfnsbL8hAVssgFUqtMWB5PNoNqceew&s",
+      "schedule": "2025-02-03T08:00:00"
+    },
+    {
+      "id": "7",
+      "name": "CrossFit",
+      "description": "A high-intensity workout combining weightlifting and cardio.",
+      "duration": 45,
+      "image": "https://i.ytimg.com/vi/ivyfNzHFeQ4/maxresdefault.jpg",
+      "schedule": "2025-02-03T10:00:00"
+    },
+    {
+      "id": "8",
+      "name": "Bodyweight Training",
+      "description": "Using your body weight for strength and conditioning.",
+      "duration": 40,
+      "image": "https://www.getsweatgo.com/wp-content/uploads/sites/4/2024/04/548-posts.homepage_preview_lg.jpg",
+      "schedule": "2025-02-03T12:00:00"
+    },
+    {
+      "id": "9",
+      "name": "Strength Training",
+      "description": "Building muscle and strength using weights.",
+      "duration": 60,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaik2BDGngXwj5M3_Lb7FCMD3OiKsF9QJboQ&s",
+      "schedule": "2025-02-03T14:00:00"
+    },
+    {
+      "id": "10",
+      "name": "Tai Chi",
+      "description": "A low-impact, slow-motion martial art for balance and flexibility.",
+      "duration": 60,
+      "image": "https://www.americansportandfitness.com/cdn/shop/products/tai-chi.jpg?v=1586368810&width=1445",
+      "schedule": "2025-02-04T07:00:00"
+    },
+    {
+      "id": "11",
+      "name": "Kickboxing",
+      "description": "A workout that combines martial arts and fitness training.",
+      "duration": 50,
+      "image": "https://gbjj.b-cdn.net/wp-content/uploads/2022/11/kickboxing.png",
+      "schedule": "2025-02-04T09:00:00"
+    },
+    {
+      "id": "12",
+      "name": "Barre",
+      "description": "A fusion of ballet, yoga, and Pilates for a full-body workout.",
+      "duration": 45,
+      "image": "https://churchsource.com/cdn/shop/articles/Barre-Image_985aa8ff-d379-4729-b56e-c731cb5a2ba1.jpg?v=1649432031",
+      "schedule": "2025-02-04T11:00:00"
+    },
+    {
+      "id": "13",
+      "name": "Circuit Training",
+      "description": "A high-intensity workout with different exercise stations.",
+      "duration": 50,
+      "image": "https://res.cloudinary.com/hydrow/image/upload/f_auto/w_2000/q_80/v1715266771/Blog/best-circuit-training-workouts.jpg",
+      "schedule": "2025-02-04T13:00:00"
+    },
+    {
+      "id": "14",
+      "name": "Aerobics",
+      "description": "A cardiovascular workout set to upbeat music.",
+      "duration": 45,
+      "image": "https://images.ctfassets.net/4f3rgqwzdznj/4RhNlPxGDxslNljmLS2dSr/4cbaf720cebc89659c513215f6581233/GettyImages-1195045259.jpg",
+      "schedule": "2025-02-04T15:00:00"
+    },
+    {
+      "id": "15",
+      "name": "Bootcamp",
+      "description": "A high-intensity interval training session with varied exercises.",
+      "duration": 60,
+      "image": "https://cdn.webshopapp.com/shops/281654/files/377244341/the-advantages-of-boot-camp.jpg",
+      "schedule": "2025-02-05T08:00:00"
+    },
+    {
+      "id": "16",
+      "name": "Stretching",
+      "description": "Improving flexibility with a series of stretches.",
+      "duration": 30,
+      "image": "https://www.opaortho.com/wp-content/uploads/2024/08/stretching-exercises-for-flexibility-750x462.png",
+      "schedule": "2025-02-05T10:00:00"
+    },
+    {
+      "id": "17",
+      "name": "Kettlebell Training",
+      "description": "Strength and endurance training with kettlebells.",
+      "duration": 45,
+      "image": "https://www.bodybuilding.com/images/2016/may/the-6-best-kettlebell-exercises-you-need-to-do-header-v2-830x467.jpg",
+      "schedule": "2025-02-05T12:00:00"
+    },
+    {
+      "id": "18",
+      "name": "TRX Suspension Training",
+      "description": "Bodyweight exercises using suspension straps.",
+      "duration": 50,
+      "image": "https://www.trxtraining.com/cdn/shop/articles/working-hard-side-view-of-young-athletic-woman-with-royalty-free-image-1586884688.jpg?v=1645068121",
+      "schedule": "2025-02-05T14:00:00"
+    },
+    {
+      "id": "19",
+      "name": "Jump Rope",
+      "description": "Cardio training using a jump rope.",
+      "duration": 30,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4sxmSNEe-ghLbBw9oF8pu6x3r8WkWLNXStA&s",
+      "schedule": "2025-02-06T07:00:00"
+    },
+    {
+      "id": "20",
+      "name": "Stretch & Relax",
+      "description": "A gentle workout focused on stretching and relaxation.",
+      "duration": 30,
+      "image": "https://i.ytimg.com/vi/53m7AFFqoaM/sddefault.jpg",
+      "schedule": "2025-02-06T09:00:00"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "1",
+      "user_id": 1,
+      "fitness_class": {
+        "id": 2,
+        "name": "Pilates",
+        "time": "11:30 AM"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "4",
+      "user_id": 1,
+      "fitness_class": {
+        "id": 3,
+        "name": "Zumba",
+        "time": "1:00 PM"
+      },
+      "status": "cancelled"
+    },
+    {
+      "id": "f39c",
+      "user_id": 1,
+      "fitness_class": {
+        "id": 12,
+        "name": "Strength Training",
+        "time": "6:00 PM"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "32c8",
+      "user_id": 1,
+      "fitness_class": {
+        "id": 1,
+        "name": "Yoga",
+        "time": "10:00 AM"
+      },
+      "status": "pending"
+    },
+    {
+      "id": "ec5e",
+      "user_id": "12",
+      "fitness_class_id": "4",
+      "status": "confirmed"
+    },
+    {
+      "id": "974a",
+      "user_id": "10",
+      "fitness_class_id": "2",
+      "status": "confirmed"
+    },
+    {
+      "id": "1c53",
+      "user_id": "3",
+      "fitness_class_id": "8",
+      "status": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+# Fitness Scheduler App
+
+## Overview
+The **Fitness Scheduler App** is a full-stack web application designed to help users efficiently plan and manage their workout schedules. Built with a **Flask API backend** and a **React frontend**, this app allows users to create, edit, and track their fitness sessions with ease.
+
+## Features
+- **User Accounts:** Users can sign up and manage their fitness schedules.
+- **Workout Scheduling:** Add and delete workout sessions.
+- **Custom Session Database:** Uses a `db.json` file to store and display workout details on the frontend.
+- **Form Validation:** Implements Formik for validating user input.
+- **Full CRUD Support:** Allows complete create, read,and delete actions for workouts.
+- **RESTful API:** The backend follows REST principles using Flask-RESTful.
+- **Dynamic Navigation:** Includes multiple client-side routes for seamless navigation.
+
+## Technologies Used
+### Frontend
+- React & JS
+- React Router
+- Formik (for form validation)
+- Fetch API (for API communication)
+
+### Backend
+- Flask
+- Flask-RESTful
+- SQLAlchemy (for database management)
+- Pipenv (for dependency management)
+
+## Installation & Setup
+### Backend Setup
+1. Clone the repository:
+   ```sh
+   git clone <your-repo-url>
+   cd fitness-scheduler-backend
+   ```
+2. Install dependencies using Pipenv:
+   ```sh
+   pipenv install
+   ```
+3. Activate the virtual environment:
+   ```sh
+   pipenv shell
+   ```
+4. Run the Flask server:
+   ```sh
+   flask run
+   ```
+
+### Frontend Setup
+1. Navigate to the frontend directory:
+   ```sh
+   cd fitness-scheduler-frontend
+   ```
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
+3. Start the React development server:
+   ```sh
+   npm start
+   ```
+
+## Future Enhancements
+- **User Authentication** for personalized schedules
+- **Workout Reminders** via email or notifications
+- **Exercise Recommendations** based on user goals
+- **Progress Tracking** with charts and statistics
+
+
